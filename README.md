@@ -1,7 +1,7 @@
 ### Eai Pessoal! 👋
 
 Bem-vindo ao meu perfil do GitHub!
-Me chamo Jhon Vitor, sou um desenvolvedor iniciante no mundo do backend. Estou animado em aprender e explorar as maravilhas da construção de aplicativos e serviços robustos.
+Me chamo Jhon Vitor, sou um desenvolvedor iniciante no mundo do backend. Estou animado em aprender e explorar as maravilhas da construção de softwares e serviços robustos.
 
 Embora eu esteja no início da minha jornada no desenvolvimento backend, já adquiri conhecimentos básicos em algumas tecnologias fundamentais. Atualmente, estou focado em aprimorar minhas habilidades em:
 Linguagens de programação: Python e C#
