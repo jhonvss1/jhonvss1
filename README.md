@@ -1,28 +1,30 @@
-### Eai Pessoal! 👋
+### 
 
-Bem-vindo ao meu perfil do GitHub!
-Me chamo Jhon Vitor, sou um desenvolvedor iniciante no mundo do backend. Estou animado em aprender e explorar as maravilhas da construção de softwares e serviços robustos.
+Olá! Eu sou Jhon Vitor
+Sou um desenvolvedor backend iniciante, apaixonado por aprender e construir soluções eficientes e robustas no mundo da tecnologia. Ainda estou no começo da minha jornada, mas cada passo tem sido uma oportunidade incrível de descobrir e crescer.
 
-Embora eu esteja no início da minha jornada no desenvolvimento backend, já adquiri conhecimentos básicos em algumas tecnologias fundamentais. Atualmente, estou focado em aprimorar minhas habilidades em:
+Atualmente, estou mergulhando nas bases do desenvolvimento backend, com foco em algumas linguagens e ferramentas essenciais. Tenho dedicado meu tempo ao aprendizado de:
+
 Linguagens de programação: Python e C#
-Estudando: HTML E CSS 
+Explorando: HTML e CSS
 Bancos de dados: MySQL
-Versionamento de código: Git e GitHub
-Estou sempre aberto a aprender novas tecnologias e aprimorar minhas habilidades, então, se você tiver alguma sugestão ou recomendação, adoraria ouvir!
+Controle de versão: Git e GitHub
+Estou sempre disposto a expandir meu horizonte e aprender novas tecnologias. Se você tiver qualquer sugestão, dica ou ferramenta que acha que eu deveria explorar, ficaria muito feliz em ouvir!
 
-Estou constantemente trabalhando em projetos pessoais para aplicar o que aprendo e aprofundar minha compreensão. Alguns dos meus projetos recentes incluem:
-Vou citar alguns projetos ainda 
-Você pode conferir esses projetos e muito mais nos meus repositórios. Sinta-se à vontade para explorar, fornecer feedback e até mesmo colaborar!
+Projetos
+A cada projeto que desenvolvo, tento aplicar o que estou aprendendo, testando minhas habilidades e me desafiando a ir além. Vou compartilhar alguns dos meus projetos recentes aqui em breve, mas, enquanto isso, sinta-se à vontade para explorar meus repositórios e deixar um feedback ou sugestão. Quem sabe a gente não colabora em algo legal?
 
-Meus objetivos como desenvolvedor backend são:
-Aprender e dominar os princípios fundamentais do desenvolvimento de aplicativos backend.
+Objetivos
+Como desenvolvedor backend, meus principais objetivos são:
+
+Dominar os princípios do desenvolvimento backend.
 Aprofundar meu conhecimento em arquitetura de software e design de APIs.
-Trabalhar em projetos desafiadores para expandir minha experiência prática.
-Colaborar com outros desenvolvedores e contribuir para projetos de código aberto.
-Entre em contato
-Estou sempre interessado em me conectar com outros desenvolvedores, aprender com suas experiências e contribuir com meus conhecimentos. Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem aqui no GitHub ou por meio das minhas redes sociais.
+Trabalhar em projetos desafiadores que me permitam crescer.
+Colaborar com outros devs e contribuir para projetos open-source.
+Vamos nos conectar!
+Adoro conversar com outros desenvolvedores, aprender com suas experiências e compartilhar o que sei. Se quiser bater um papo, me manda uma mensagem aqui no GitHub ou pelas minhas redes sociais. Estou sempre aberto a trocar ideias!
 
-Estou ansioso para compartilhar minha jornada no desenvolvimento backend e aprender com a comunidade do GitHub. Vamos construir coisas incríveis juntos!
+Mal posso esperar para continuar essa jornada, aprender mais e contribuir com a comunidade. Vamos construir algo incrível juntos!
 
 <h3>Tecnologias que uso no meu dia a dia:</h3>
 <div style="display: inline_block"><br>
