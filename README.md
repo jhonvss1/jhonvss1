@@ -1,38 +1,20 @@
 ### 
 
-Olá! Eu sou Jhon Vitor
-Sou um desenvolvedor backend iniciante, apaixonado por aprender e construir soluções eficientes e robustas no mundo da tecnologia. Ainda estou no começo da minha jornada, mas cada passo tem sido uma oportunidade incrível de descobrir e crescer.
+Seja bem vindo ao meu perfil !! Eu me chamo Jhon
+Sou um desenvolvedor backend Jr, apaixonado em aprender, ensinar e solucionar problemas. Sempre considero estar ainda no começo jornada, pois cada passo tem sido uma oportunidade de descobrir, aprender e crescer.
 
-Atualmente, estou mergulhando nas bases do desenvolvimento backend, com foco em algumas linguagens e ferramentas essenciais. Tenho dedicado meu tempo ao aprendizado de:
+Atualmente, estou trabalhando e desenvolvendo projetos com as bases do desenvolvimento backend, com foco em algumas tecnologias e ferramentas. Tenho dedicado meu tempo ao aprendizado de C# usando o Entity FrameWork para conseguir mapear o banco de dados dentro da minha aplicação, o SQL Server, para ter como um SGBD, uso também o ASP .NET e Angular para criar aplicações Web. 
 
-Linguagens de programação: Python e C#
-Explorando: HTML e CSS
-Bancos de dados: MySQL
-Controle de versão: Git e GitHub
-Estou sempre disposto a expandir meu horizonte e aprender novas tecnologias. Se você tiver qualquer sugestão, dica ou ferramenta que acha que eu deveria explorar, ficaria muito feliz em ouvir!
+Meu principal objetivo é atuar como back-end, mas o meu desejo é estar apto a desenvolver a função que a mim for direcionada, por esse motivo os meus estudos estão constatemente ativos e nunca irão parar porque além de amar a tecnologia amo estudar. 
 
-Projetos
-A cada projeto que desenvolvo, tento aplicar o que estou aprendendo, testando minhas habilidades e me desafiando a ir além. Vou compartilhar alguns dos meus projetos recentes aqui em breve, mas, enquanto isso, sinta-se à vontade para explorar meus repositórios e deixar um feedback ou sugestão. Quem sabe a gente não colabora em algo legal?
-
-Objetivos
-Como desenvolvedor backend, meus principais objetivos são:
-
-Dominar os princípios do desenvolvimento backend.
-Aprofundar meu conhecimento em arquitetura de software e design de APIs.
-Trabalhar em projetos desafiadores que me permitam crescer.
-Colaborar com outros devs e contribuir para projetos open-source.
-Vamos nos conectar!
-Adoro conversar com outros desenvolvedores, aprender com suas experiências e compartilhar o que sei. Se quiser bater um papo, me manda uma mensagem aqui no GitHub ou pelas minhas redes sociais. Estou sempre aberto a trocar ideias!
-
-Mal posso esperar para continuar essa jornada, aprender mais e contribuir com a comunidade. Vamos construir algo incrível juntos!
+Minhas Principais Soft Skills são: liderança, proatividade, transparência, flexibilidade e coloco em destaque a facilidade em me comunicar e de ser muito interessado e curioso para diversas coisas.
 
 <h3>Tecnologias que uso no meu dia a dia:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jhon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Jhon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jhon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+ <img align="center" alt="Jhon-BootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
 
           
 </div>
