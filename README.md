@@ -1,6 +1,7 @@
 ### 
 
-Seja bem vindo ao meu perfil !! Eu me chamo Jhon
+Seja bem vindo ao meu perfil !! 
+Eu me chamo Jhon
 Sou um desenvolvedor backend Jr, apaixonado em aprender, ensinar e solucionar problemas. Sempre considero estar ainda no começo jornada, pois cada passo tem sido uma oportunidade de descobrir, aprender e crescer.
 
 Atualmente, estou trabalhando e desenvolvendo projetos com as bases do desenvolvimento backend, com foco em algumas tecnologias e ferramentas. Tenho dedicado meu tempo ao aprendizado de C# usando o Entity FrameWork para conseguir mapear o banco de dados dentro da minha aplicação, o SQL Server, para ter como um SGBD, uso também o ASP .NET e Angular para criar aplicações Web. 
