@@ -8,7 +8,7 @@ My main goal is to work as a backend developer, but my desire is to be able to d
 
 My Main Soft Skills are: leadership, proactivity, transparency, flexibility and I highlight the ease of communication and being very interested and curious about many things.
 
-<h3>Tools Tools that I use in my daily life:</h3>
+<h3> Tools that I use in my daily life:</h3>
 <div style="display: inline_block"><br>
    <img align="center" alt="Jhon-DotNet" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
    <img align="center" alt="Jhon-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
