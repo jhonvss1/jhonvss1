@@ -32,7 +32,8 @@ My Main Soft Skills are: leadership, proactivity, transparency, flexibility and 
 
   <a href = "jhonsilva.vs1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jhon-vitor-82566a219/" target='_blank'><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" 
+   <img  align="center" alt="Jhon-Git" height="30" width="40" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png" />
 </div>
 
 ![jhonvss1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonvss1&show_icons=true&theme=tokyonight)
