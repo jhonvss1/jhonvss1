@@ -9,8 +9,8 @@
    
    My Main Soft Skills are: leadership, proactivity, transparency, flexibility and I highlight the ease of communication and being very interested and curious about many things.
 </p>
-<h3> Tecnologies:</h3>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+   <h3> Tecnologies:</h3>
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
    <img align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
