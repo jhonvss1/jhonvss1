@@ -5,9 +5,6 @@
    
    I am currently working and developing projects with the foundations of backend development, focusing on some technologies and tools. I have dedicated my time to learning C# using Entity Framework to be able to map the database within my application, SQL Server, to have it as a database manager, I also use ASP .NET and learning Angular to create web applications.
    
-   My main goal is to work as a backend developer, but my desire is to be able to develop the role that is assigned to me, for this reason my studies are constantly active and will never stop because in addition to loving technology, I love to study.
-   
-   My Main Soft Skills are: leadership, proactivity, transparency, flexibility and I highlight the ease of communication and being very interested and curious about many things.
 </p>
 <div style="display: inline_block">
    <h3> Tecnologies:</h3>
