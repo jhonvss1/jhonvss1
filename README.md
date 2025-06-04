@@ -3,7 +3,7 @@
 <p>
    Welcome to my profile!! My name is Jhon. I am a Junior backend developer, passionate about learning, teaching and solving problems. I always consider myself to be just starting my journey, because each step has been an opportunity to discover, learn and grow.
    
-   I am currently working and developing projects with the foundations of backend development, focusing on some technologies and tools. I have dedicated my time to learning C# using Entity Framework to be able to map the database within my application, SQL Server, to have it as a database manager, I also use ASP .NET and learning Angular to create web applications.
+   I am currently working and developing projects with the foundations of backend development, focusing on some technologies and tools. I have dedicated my time to learning C# using Entity Framework to be able to map the database within my application, SQL Server, to have it as a database manager, I also learning Angular to create web applications.
    
 </p>
 <div style="display: inline_block">
