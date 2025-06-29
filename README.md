@@ -1,16 +1,14 @@
 ### 
 
 <p>
-   Welcome to my profile!! My name is Jhon. I am a Junior backend developer, passionate about learning, teaching and solving problems. I always consider myself to be just starting my journey, because each step has been an opportunity to discover, learn and grow.
-   
-   I am currently working and developing projects with the foundations of backend development, focusing on some technologies and tools. I have dedicated my time to learning C# using Entity Framework to be able to map the database within my application, SQL Server, to have it as a database manager, I also learning Angular to create web applications.
-   
+Opaa
+Uma pequena apresentação: 
+Sou desenvolvedor de software entusiasta de desafios e tecnologia. Meu foco é sempre entregar soluções que funcionem bem hoje e cresçam amanhã, sem perder a qualidade no caminho. Adoro compartilhar o que aprendo porque, no fundo, ensinar é a melhor forma de aprender.
 </p>
 <div style="display: inline_block">
    <h3> Tecnologies:</h3>
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
    <img align="center"  height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-   <img align="center"  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
    <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
