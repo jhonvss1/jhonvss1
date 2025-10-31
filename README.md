@@ -21,7 +21,7 @@ Sou desenvolvedor de software entusiasta de desafios e tecnologia. Meu foco é s
  
 <div>
    <h3>Network and Contacts:</h3>
-  <a href="https://www.linkedin.com/in/jhon-vitor-82566a219/" target='_blank'><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/jhon-santos-vs1/" target='_blank'><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 </div>
 
 ![jhonvss1 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonvss1&show_icons=true&theme=tokyonight)
