@@ -27,7 +27,7 @@ Sou desenvolvedor de software entusiasta de desafios e tecnologia. Meu foco é s
    <h3>Network and Contacts:</h3>
    <a href="https://www.linkedin.com/in/jhon-santos-vs1/" target='_blank'><img width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank"></a> 
 
-<a href="https://mail.google.com/mail" target='_blank'>jvstech20@gmail.com</a>
+<a href="[https://mail.google.com/mail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSMTRsZWFjDhfVCHfrwncxjpXSGCBmrGcRKMvBDtpVBQcpxnxSfJGHVZVPsNqwZCZlhXPsnH)" target='_blank'>jvstech20@gmail.com</a>
    
 </div>
 
