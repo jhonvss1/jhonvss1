@@ -1,9 +1,5 @@
 <h3>Opaa 👋</h3>
 
-<p>
-Sou desenvolvedor de software entusiasta de desafios e tecnologia. Meu foco é sempre entregar soluções que funcionem bem hoje e cresçam amanhã, sem perder a qualidade no caminho. Adoro compartilhar o que aprendo porque, no fundo, ensinar é a melhor forma de aprender.
-</p>
-
 <h3>Ferramentas:</h3>
 
 <p>
