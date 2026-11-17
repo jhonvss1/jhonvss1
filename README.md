@@ -1,19 +1,28 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Oi%2C+eu+sou+Jhon+%F0%9F%91%8B;Software+Developer;C%23+%7C+.NET+%7C+TypeScript+%7C+Angular;Clean+Code+%7C+DDD+%7C+SOLID" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=58A6FF&center=true&vCenter=true&width=720&lines=Jhon+Santos;Desenvolvedor+de+Software;Backend+com+C%23+e+.NET;Arquitetura+Limpa+%7C+DDD+%7C+SOLID" alt="Jhon Santos" />
 
 <br/>
 
-**Software Developer** focado em backend com C# e .NET,
-construindo APIs robustas com arquitetura limpa e boas práticas.
+Desenvolvedor de software com foco em backend, atuando com C# e .NET
+no desenvolvimento de APIs, integrações e serviços orientados a boas práticas de engenharia.
 
-📍 Aracaju, SE &nbsp;|&nbsp; 🏢 Maurício de Nassau
+Aracaju, SE &nbsp;|&nbsp; Maurício de Nassau
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### Sobre
+
+Atuo no desenvolvimento e na manutenção de sistemas corporativos, aplicando Clean Code,
+Domain-Driven Design e princípios SOLID para produzir soluções legíveis, testáveis e de fácil evolução.
+Tenho experiência com integrações fiscais (NF-e, NFS-e e SEFAZ), serviços REST e SOAP,
+processamento em segundo plano e interfaces em Angular e TypeScript.
+
+---
+
+### Competências Técnicas
 
 **Backend**
 
@@ -32,12 +41,12 @@ construindo APIs robustas com arquitetura limpa e boas práticas.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Banco de Dados**
+**Bancos de Dados**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Ferramentas**
+**Infraestrutura e Ferramentas**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -53,7 +62,7 @@ construindo APIs robustas com arquitetura limpa e boas práticas.
 
 ---
 
-### 📊 GitHub Stats
+### Atividade no GitHub
 
 <div align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=jhonvss1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -66,7 +75,7 @@ construindo APIs robustas com arquitetura limpa e boas práticas.
 
 ---
 
-### 📬 Contato
+### Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-santos-vs1/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvstech20@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvstech20@gmail.com)
